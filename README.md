@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @talipzengin
+- 👋 Hi, I’m Talip
 - 👀 I’m interested in cancer bioinformatics and immunology informatics
 - 🌱 I’m currently learning structural biology
 - 💞️ I’m looking to collaborate on cancer immunotherapy
